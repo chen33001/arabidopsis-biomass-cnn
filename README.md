@@ -159,15 +159,7 @@ Full list → [`requirements.txt`](requirements.txt)
 ## 📦 Citation
 
 > Wei-Fu Chen (2025). _Arabidopsis Biomass CNN: A GUI-based CNN toolkit for image-based biomass estimation._  
-> University of Potsdam, Bioimage Analysis Practical.
-
----
-
-## 🧑‍🔬 Contact
-
-**Wei-Fu Chen**  
-University of Potsdam — Bioinformatics M.Sc.  
-📧 [your email here]  
+> University of Potsdam
 
 ---
 
